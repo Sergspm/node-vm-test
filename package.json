@@ -1,0 +1,25 @@
+{
+  "name": "node-vm",
+  "version": "0.1.0",
+  "main": "server/server.js",
+  "scripts": {
+  },
+  "author": "Sergey Shilov",
+  "description": "Test node app using vm",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "loopback": "^2.36.0",
+    "loopback-boot": "^2.18.1",
+	"log4js": "^0.6.35"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "bin": {
+  }
+}

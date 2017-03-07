@@ -1,0 +1,10 @@
+*.log
+*.pid
+*.swp
+.DS_Store
+.idea
+.project
+.strong-pm
+**/node_modules
+node_modules
+npm-debug.log
